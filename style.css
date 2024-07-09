@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(236, 236, 236);
+}
+
+#vendas {
+    color: dimgray;
+}
+
+#informacao{
+    color: dimgray;
+}
+
+#botao{
+    background-color: rgb(192, 64, 64);
+    font-size: 14px;            
+    border-radius: 10px
+}
+
+#possivel{
+    color: white;
+}
+
+.pse{
+    border-color: black;
+    border-width: 12px;
+    border-style: solid;
+    float: center;
+}
+
+
